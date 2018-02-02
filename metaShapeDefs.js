@@ -10,7 +10,7 @@ import {deepFreeze} from '../common/utility';
 /**
  * Defines symbols.
  * Each symbol is mapped to a color value. 
- * View layer defines colors and decides which symbol to map to which color. @see {@link module:viewConfig}
+ * View layer defines colors and decides which symbol to map to which color. @see module:viewConfig
  * @type {Array}
  */
 const symbols = []; //a-z
